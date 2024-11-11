@@ -1,5 +1,5 @@
 # VSE_Streamlit
-1. Vytvoř si Snowflake Trial zde: Snowflake Trial
+1. Vytvoř si Snowflake Trial
 Nastavení: Enterprise, Amazon Web Services, US WEST (Oregon) – nejvíce funkcí k 6.11. 2024 (jinak je nastavení pro naše potřeby jedno)
 
 
